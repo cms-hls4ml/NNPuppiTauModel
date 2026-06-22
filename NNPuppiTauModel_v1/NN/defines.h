@@ -69,5 +69,5 @@ typedef ap_fixed<16, 7> weight20_t;
 typedef ap_fixed<16, 7> bias20_t;
 typedef ap_uint<1> layer20_index;
 
-#endif
 }
+#endif
