@@ -9,5 +9,5 @@
 namespace hls4ml_nnpuppitaumodel_v1 {
 bias20_t b20[1] = {0.238281};
 
-#endif
 }
+#endif

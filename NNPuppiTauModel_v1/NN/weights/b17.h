@@ -9,5 +9,5 @@
 namespace hls4ml_nnpuppitaumodel_v1 {
 bias17_t b17[1] = {-0.714844};
 
-#endif
 }
+#endif
